@@ -1,0 +1,25 @@
+{
+    "name": "fawno/fawnohtmlhelper",
+    "version": "0.0.1",
+    "description": "FawnoHtmlHelper for CakePHP 3",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fawno",
+            "homepage": "https://github.com/fawno/FawnoHtmlHelper/graphs/contributors"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/fawno/FawnoHtmlHelper/issues",
+        "source": "https://github.com/fawno/FawnoHtmlHelper"
+    },
+    "require": {
+        "cakephp/cakephp": ">=3.*",
+				"holt59/cakephp3-bootstrap-helpers": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fawno\\View\\Helper\\": "src"
+        }
+    }
+}
