@@ -14,7 +14,7 @@
         "source": "https://github.com/fawno/FawnoHtmlHelper"
     },
     "require": {
-        "cakephp/cakephp": ">=3.*",
+        "cakephp/cakephp": "3.*",
 				"holt59/cakephp3-bootstrap-helpers": "dev-master"
     },
     "autoload": {
